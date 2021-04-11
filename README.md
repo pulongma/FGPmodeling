@@ -1,6 +1,6 @@
 # A Fused Gaussian Process Model for Very Large Spatial Data. 
 
-This repo gives the instructions to run the proposed method FGP in simulation examples in the paper titled "A Fused Gaussian Process Model for Very Large Spatial Data".
+This repo gives the instructions to run the proposed method FGP in simulation examples in the paper titled "A Fused Gaussian Process Model for Very Large Spatial Data" by Ma and Kang (2020) [DOI:10.1080/10618600.2019.1704293](https://doi.org/10.1080/10618600.2019.1704293)
 
 1. The folder "FGP" contains the routines to implement the FGP model.
 2. Simulation results in Section 4.1 are reproduced for EK, MK, Lattice Krig, FRK, FGP. The corresponding example files are Sect4_1_FGP.m, Sect4_1_LK.R, 
